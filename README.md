@@ -86,7 +86,7 @@ These figures are reported results from the course projects and should be interp
 
 An English-language summary of the two-phase project is available as a separate PDF. It provides an overview of the methods, selected numerical results, and statistical conclusions.
 
-**[Read the English Research Summary (PDF)](English_Research_Summary.pdf)**
+**[Read the English Research Summary (PDF)](Statistics_projects_English_Research_Summary.pdf)**
 
 The summary is intended as a concise introduction to the project. The complete reports contain the detailed analyses and interpretations in Persian.
 
